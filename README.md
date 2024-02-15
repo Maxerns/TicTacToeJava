@@ -15,6 +15,8 @@ End of the Game: The game ends as soon as one player achieves a winning line or 
 Strategy: While tic-tac-toe is a simple game, there is still strategy involved, particularly in terms of blocking your opponent from forming a winning line while trying to form your own. Once players become familiar with the game, they may develop tactics to increase their chances of winning or forcing a draw.
 
 Here's an example using this Java Swing Program:
+
+
 <img width="290" alt="image" src="https://github.com/Maxerns/TicTacToeJava/assets/132019073/3fc17b47-f44b-42b2-bc0c-bd277804cbc9">
 
 <img width="292" alt="image" src="https://github.com/Maxerns/TicTacToeJava/assets/132019073/504cb8a1-6530-4a9d-a106-8c1bac470189">
