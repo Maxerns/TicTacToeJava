@@ -13,3 +13,13 @@ Fills all the cells on the board without either player achieving a winning line,
 End of the Game: The game ends as soon as one player achieves a winning line or when the board is filled with no winner. If a player wins, the game stops immediately, and that player is declared the winner. If the board is filled without a winner, the game ends in a draw.
 
 Strategy: While tic-tac-toe is a simple game, there is still strategy involved, particularly in terms of blocking your opponent from forming a winning line while trying to form your own. Once players become familiar with the game, they may develop tactics to increase their chances of winning or forcing a draw.
+
+Here's an example using this Java Swing Program:
+<img width="290" alt="image" src="https://github.com/Maxerns/TicTacToeJava/assets/132019073/3fc17b47-f44b-42b2-bc0c-bd277804cbc9">
+
+<img width="292" alt="image" src="https://github.com/Maxerns/TicTacToeJava/assets/132019073/504cb8a1-6530-4a9d-a106-8c1bac470189">
+
+<img width="291" alt="image" src="https://github.com/Maxerns/TicTacToeJava/assets/132019073/f20771c0-b120-44eb-ad0f-e9bc040a26b6">
+
+
+
